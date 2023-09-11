@@ -1,0 +1,106 @@
+docker-compose up
+
+git clone https://github.com/h2oai/h2ogpt.git
+
+
+
+pip install -r requirements.txt
+pip install -r reqs_optional/requirements_optional_langchain.txt
+pip install -r reqs_optional/requirements_optional_gpt4all.txt
+# if don't have wget, copy the below link to browser and download and place file into h2ogpt folder
+wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+python generate.py --base_model='llama' --prompt_type=llama2
+
+
+
+https://arxiv.org/pdf/2306.08161.pdf
+
+
+https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3
+
+
+
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o miniconda.exe
+start /wait "" miniconda.exe /S
+del miniconda.exe
+
+
+https://github.com/alejandro-ao/ask-multiple-pdfs
+
+
+
+
+https://huggingface.co/join
+.-thP8X3wcx-V.D
+
+
+
+
+
+
+https://platform.openai.com/account/api-keys
+
+
+
+https://github.com/orhanerday/open-ai
+
+
+https://chat.openai.com/?model=text-davinci-002-render-sha
+
+
+
+https://www.private-ai.com/products/privategpt-chatbot/
+
+
+
+https://www.chatbase.co/?campaign=websitetrafficSrchCampaign&gclid=Cj0KCQjwgNanBhDUARIsAAeIcAuGx7PlHqzCbH7ZGPfKT-b6oFREWa_3oVIPeGQq1dS9kFSOM6St_5caApJxEALw_wcB
+
+
+
+
+https://www.youtube.com/watch?v=jxSPx1bfl2M
+
+
+https://www.youtube.com/watch?v=MlyoObdIHyo
+
+
+https://www.youtube.com/watch?v=k_aURLKTrvU
+
+
+https://www.youtube.com/watch?v=Coj72EzmX20
+
+
+
+https://www.youtube.com/watch?v=l-Ji31HlC68
+
+ทำยังไงให้ตอบได้ตรงจุด
+
+ทำงานออฟไลน์
+
+เตรียมข้อมูลให้ฉลาด
+
+ไกด์คำถามคำตอบของหมวดหมู่ได้มั๊ย
+
+เรืองสิทธิ์ประโยชได้ยังไง
+
+ขอรับเงินว่างงาน
+
+
+
+
+conda create -n localGPT
+conda create -n localgpt_api
+conda activate localGPT
+conda activate localgpt_api
+
+C:\Users\bombbomb1980\anaconda3\envs
+
+pip install -r requirements.txt
+
+python ingest.py
+
+
+
+
+
+https://github.com/PromtEngineer/localGPT

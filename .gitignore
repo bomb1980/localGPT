@@ -1,2 +1,10 @@
 
 .vscode/settings.json
+DB/5f3bde69-20b8-4330-9fc4-c80b8bf840ab/data_level0.bin
+DB/5f3bde69-20b8-4330-9fc4-c80b8bf840ab/header.bin
+DB/5f3bde69-20b8-4330-9fc4-c80b8bf840ab/length.bin
+DB/5f3bde69-20b8-4330-9fc4-c80b8bf840ab/link_lists.bin
+DB/chroma.sqlite3
+llama-2-7b-chat.ggmlv3.q4_0.bin
+__pycache__/run_localGPT.cpython-311.pyc
+__pycache__/constants.cpython-311.pyc
